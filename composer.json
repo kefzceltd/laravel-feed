@@ -35,7 +35,7 @@
         "nesbot/carbon": "^1.0"
     },
     "require-dev": {
-        "orchestra/testbench": "~3.5.0|~3.6.0",
+        "orchestra/testbench": "^2.2.1",
         "phpunit/phpunit": "^6.0|^7.0",
         "spatie/phpunit-snapshot-assertions": "^1.0"
     },
